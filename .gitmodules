@@ -1,0 +1,8 @@
+[submodule "altera-makefile"]
+	path = altera-makefile
+	url = https://github.com/lexgolovchenko/altera-makefiles.git
+	branch = master
+[submodule "avalon-1wire-master"]
+	path = avalon-1wire-master
+	url = https://github.com/lexgolovchenko/avalon-1wire-master.git
+	branch = master
